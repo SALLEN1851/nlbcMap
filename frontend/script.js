@@ -597,7 +597,7 @@ let marker;
             },
             layout: {},
             paint: {
-              'fill-color': '#05B4DF',
+              'fill-color': '#FF0000',
               'fill-opacity': 0.3,
               'fill-outline-color': '#088', // Optional: Outline color
             },
