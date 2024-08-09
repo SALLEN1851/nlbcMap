@@ -11,7 +11,7 @@ const app = express();
 
 // Configure CORS
 app.use(cors({
-  origin: 'https://nlbc.up.railway.app', // Change this to your specific allowed origins as needed
+  origin: 'nlbcmap-production.up.railway.app', // Change this to your specific allowed origins as needed
   credentials: true,
   optionsSuccessStatus: 200,
 }));
