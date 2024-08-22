@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const db = 'postgresql://neondb_owner:skU6cxAtObe5@ep-patient-resonance-a5ah72cm-pooler.us-east-2.aws.neon.tech/neondb?sslmode=require' ;
+const db = 'mongodb+srv://sallen3197:KY4AxbPYmVsvkxy0@cluster0.uhbelkq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0' ;
 
 mongoose.set("strictQuery", true, "useNewUrlParser", true);
 
